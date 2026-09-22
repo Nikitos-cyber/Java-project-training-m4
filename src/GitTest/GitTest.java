@@ -31,7 +31,7 @@ public class GitTest {
                 str.append(String.valueOf((char) symbolInt));
         }
 
-        System.out.println("\nСтрока: " + str.toString());
+        System.out.println("\nСгенерированая строка: " + str.toString());
 
     }
 
